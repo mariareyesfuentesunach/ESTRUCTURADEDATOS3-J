@@ -1,7 +1,8 @@
+#Maria Jose Reyes Fuentes 3-j LSC
 maxf = 3
 maxc = 5
 
-# Crear una matriz vacía
+# Crear una matriz vacÃ­a
 a = [[0.0] * maxc for _ in range(maxf)]
 
 # Leer valores para llenar la matriz
@@ -13,4 +14,4 @@ for f in range(maxf):
 for f in range(maxf):
     for c in range(maxc):
         print(a[f][c], end=" ")
-    print()  # Agregar una nueva línea después de cada fila
+    print()  # Agregar una nueva lÃ­nea despuÃ©sÂ deÂ cadaÂ fila
