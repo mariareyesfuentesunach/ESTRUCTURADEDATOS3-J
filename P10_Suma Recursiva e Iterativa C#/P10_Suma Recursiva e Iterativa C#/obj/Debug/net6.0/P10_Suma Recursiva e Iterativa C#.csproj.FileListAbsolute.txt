@@ -1,0 +1,14 @@
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\bin\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.exe
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\bin\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.deps.json
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\bin\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.runtimeconfig.json
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\bin\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.dll
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\bin\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.pdb
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.AssemblyInfoInputs.cache
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.AssemblyInfo.cs
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.csproj.CoreCompileInputs.cache
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.dll
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\refint\P10_Suma Recursiva e Iterativa C#.dll
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.pdb
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\P10_Suma Recursiva e Iterativa C#.genruntimeconfig.cache
+F:\GitHub\ESTRUCTURADEDATOS3-J\P10_Suma Recursiva e Iterativa C#\P10_Suma Recursiva e Iterativa C#\obj\Debug\net6.0\ref\P10_Suma Recursiva e Iterativa C#.dll
